@@ -117,6 +117,8 @@ pnpm scripts
 
 贡献者是在 DevUI 社区中合并了 1 个或多个 PR 的社区成员。
 
+我也想成为贡献者啊，心塞；
+
 感谢以下 DevUI 的田主们 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
